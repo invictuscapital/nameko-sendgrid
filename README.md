@@ -31,7 +31,5 @@ class Service:
 
 Specify your configuration like this:
 ```yaml
-TWILIO:
-  SID: abcd
-  TOKEN: efgh
+SENDGRID_KEY: abcd
 ```
